@@ -19,6 +19,44 @@ body {
   --dark-gray: #999999;
 }
 
+/* Példa egyéb stílusokra (ezek az eredeti fájlban szerepelnek) */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-family);
+  color: var(--black);
+  background-color: black;
+  width: 100%;
+  min-height: 100%;
+}
+
+/* További stílusok jöhetnek ide... */
+
+body {
+  background-color: black;
+}
+
+/* GLOBAL STYLES */
+:root {
+  --font-family: Inter, sans-serif;
+  --headline-font-family: Inter, sans-serif;
+  --font-size-xl: 48px;
+  --font-size-l: 24px;
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+  --font-size-xs: 12px;
+
+  --white: #ffffff;
+  --black: #000000;
+  --gray: #d9d9d9;
+  --light-gray: #f5f5f5;
+  --dark-gray: #999999;
+}
+
 * {
   box-sizing: border-box;
 }
