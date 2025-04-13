@@ -90,7 +90,7 @@ html, body {
   left: 34px;
   font-family: "Roboto Condensed", Helvetica;
   font-weight: 700;
-  color: #f7f7f7;
+  color: #ffffff;
   font-size: 48px;
   letter-spacing: 0;
   line-height: 38px;
@@ -178,7 +178,7 @@ html, body {
   left: 103px;
   font-family: "Inter", Helvetica;
   font-weight: 400;
-  color: #ffffff;
+  color: #f6f6f6;
   font-size: 36px;
   text-align: center;
   letter-spacing: 0;
@@ -230,11 +230,11 @@ html, body {
 .generated-design .fedezd-fel-a-bitcoin {
   position: absolute;
   width: 412px;
-  top: 200px;
+  top: 190px;
   left: 131px;
   font-family: "Jersey 25", Helvetica;
   font-weight: 400;
-  color: #ffffff;
+  color: #f9f8f8;
   font-size: 48px;
   letter-spacing: 0;
   line-height: 48px;
@@ -243,11 +243,11 @@ html, body {
 .generated-design .p {
   position: absolute;
   width: 336px;
-  top: 405px;
+  top: 360px;
   left: 131px;
   font-family: "Jersey 25", Helvetica;
   font-weight: 400;
-  color: #ffffff;
+  color: #fcfcfc;
   font-size: 32px;
   letter-spacing: 0;
   line-height: 32px;
@@ -307,7 +307,7 @@ html, body {
   position: absolute;
   width: 56px;
   height: 26px;
-  top: 1208px;
+  top: 1213px;
   left: 219px;
   font-family: var(--m3-label-large-font-family);
   font-weight: var(--m3-label-large-font-weight);
@@ -351,7 +351,7 @@ html, body {
   position: absolute;
   width: 122px;
   height: 26px;
-  top: 1208px;
+  top: 1213px;
   left: 817px;
   font-family: var(--m3-label-large-font-family);
   font-weight: var(--m3-label-large-font-weight);
@@ -381,7 +381,7 @@ html, body {
   position: absolute;
   width: 122px;
   height: 26px;
-  top: 1208px;
+  top: 1213px;
   left: 501px;
   font-family: var(--m3-label-large-font-family);
   font-weight: var(--m3-label-large-font-weight);
@@ -396,7 +396,7 @@ html, body {
 .generated-design .text-wrapper-6 {
   position: absolute;
   height: 20px;
-  top: 1211px;
+  top: 1213px;
   left: 1170px;
   font-family: var(--m3-label-large-font-family);
   font-weight: var(--m3-label-large-font-weight);
@@ -471,7 +471,7 @@ html, body {
   left: 123px;
   font-family: "Inter", Helvetica;
   font-weight: 400;
-  color: #ffffff;
+  color: #fafafa;
   font-size: 32px;
   letter-spacing: 0;
   line-height: normal;
@@ -494,7 +494,7 @@ html, body {
 
 .generated-design .text-wrapper-7 {
   position: absolute;
-  top: 1382px;
+  top: 1346px;
   left: 112px;
   font-family: "Inter", Helvetica;
   font-weight: 400;
@@ -605,7 +605,7 @@ html, body {
   left: 1148px;
   font-family: "Poppins", Helvetica;
   font-weight: 400;
-  color: #ffffff;
+  color: #fffdfd;
   font-size: 20px;
   letter-spacing: 0;
   line-height: 24px;
