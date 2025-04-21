@@ -611,3 +611,11 @@ html, body {
   line-height: 24px;
   white-space: nowrap;
 }
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline; /* ha szeretnél valami hover effektet */
+}
